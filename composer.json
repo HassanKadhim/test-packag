@@ -1,0 +1,22 @@
+{
+    "name": "h3/commend",
+    "description": "Our special package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hassan Kadhim",
+            "email": "66673458+HassanKadhim@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "dev",
+
+
+    "require": {},
+
+    "autoload": {
+        "psr-4": {
+            "H3\\Commend\\": "src/"
+        }
+    }
+}
